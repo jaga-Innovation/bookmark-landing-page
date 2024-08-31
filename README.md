@@ -152,8 +152,4 @@ controls[3].onclick = function(){
 For my next projects, I'll be focusing on learning how to implement animations on drop down menus and change of 
 image onclick.
 
-## Author
-
-- LinkedIn - [Uzochukwu Victor Okafor](https://www.linkedin.com/in/uzochukwuokafor/)
-- Frontend Mentor - [@uzoway](https://www.frontendmentor.io/profile/uzoway)
 
